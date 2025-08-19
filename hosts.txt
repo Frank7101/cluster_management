@@ -1,0 +1,8 @@
+Examples：( Don' t need add localhost )
+amd02
+amd03
+amd04
+amd05
+amd06
+amd07
+amd08
